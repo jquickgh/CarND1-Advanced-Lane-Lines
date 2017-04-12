@@ -17,9 +17,9 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-[Project Code](https://github.com/jquickgh/self-driving-car-engineer-nd/blob/master/p4-advanced-lane-finding/P4_Final.ipynb)
+[Project Code](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/P4_Final.ipynb)
 
-[Project Writeup](https://github.com/jquickgh/self-driving-car-engineer-nd/blob/master/p4-advanced-lane-finding/README.ipynb)
+[Project Writeup](https://github.com/jquickgh/CarND-Advanced-Lane-Lines/blob/master/README.ipynb)
 
 [Foggy Night](https://youtu.be/52CN__qzXDM)
 
