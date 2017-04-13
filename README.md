@@ -3,6 +3,12 @@
 
 Built Computer Vision software pipeline with Color and Perspective Transforms to identify lane boundaries in a video stream.
 
+[//]: # (Image References)
+
+[im01]: ./test_images/test1017x.jpg "Advanced Lane Finding"
+
+![alt text][im01]
+
 The Project
 ---
 
